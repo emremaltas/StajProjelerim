@@ -30,8 +30,7 @@
 #### Proje
 <img src="https://github.com/emremaltas/StajProjelerim/blob/master/2)Basınç%20Farkı%20Tespiti/Projenin%20Son%20Hali.jpg"  width="700" high="100">
 
-#### Uyarı Mesajı
-<img src="https://github.com/emremaltas/StajProjelerim/blob/master/2)Basınç%20Farkı%20Tespiti/UyarıMesajı.jpg"  width="700" high="100">
+
 
 
 # PROJE 3-) *KİŞİSEL PROJELER*
