@@ -1,5 +1,5 @@
 
-***Staj süresince tarafımca  yapılan projeler(3) aşağıda anlatılmıştır.***
+***İbütem Ar-Ge Şirketinde 25 iş günü staj süresince tarafımca  yapılan projeler(3) aşağıda anlatılmıştır.***
 
 # PROJE 1-): *KAMERAYA YAKLAŞAN NESNENİN TESPİTİ*
 
